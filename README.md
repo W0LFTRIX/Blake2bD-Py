@@ -4,11 +4,11 @@ A realy cool python script for hash your files !!
 
 # Installation
 ``` console
-# Clone the reposetory
+# Clone the repository
 $ git clone https://github.com/Wolftrix2514/Blake2bD.git
 
 # Change directory to Blake2bD
-$ cd Blake2bD
+$ cd Blake2bD-Py
 
 # Install all requirements
 $ python3 -m pip install -r requirements.txt
