@@ -8,7 +8,7 @@ A realy cool python script for hash your files !!
 $ git clone https://github.com/Wolftrix2514/Blake2bD.git
 
 # Change directory to Blake2bD
-$ cd Blake2bD-Py
+$ cd Blake2bD
 
 # Install all requirements
 $ python3 -m pip install -r requirements.txt
