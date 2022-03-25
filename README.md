@@ -23,3 +23,7 @@ $ python3 main.py
 
 # Help 
 <img src="https://raw.githubusercontent.com/Wolftrix2514/Blake2bD/main/Help/help.png" />
+ 
+ Here put your file and the program will encrypt all your file 
+ 
+ That's it :) !!!
