@@ -11,8 +11,15 @@ $ git clone https://github.com/Wolftrix2514/Blake2bD.git
 $ cd Blake2bD
 
 # Install all requirements
-
-
-
-
+$ python3 -m pip install -r requirements.txt
 ```
+
+# Usage
+
+``` console
+# Launch the python file
+$ python3 main.py
+```
+
+# Help 
+
